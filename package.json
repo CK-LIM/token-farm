@@ -23,7 +23,7 @@
     "truffle": "5.1.39",
     "web3": "1.2.11"
   },
-  "homepage": "http://pundix.github.io/token-farm",
+  "homepage": "http://CK-LIM.github.io/token-farm",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
